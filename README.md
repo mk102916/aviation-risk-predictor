@@ -1,13 +1,13 @@
 # Aviation-Risk-Predictor
 Machine Learning-based aviation safety risk prediction system using Python, Streamlit, and Decision Tree Classification.
 
---
+---
 
 ## Overview
 
 The Aviation Safety Risk Prediction System is a machine learning web application that predicts whether a flight has a **Low Risk** or **High Risk** safety profile based on historical flight information. The project uses a Decision Tree Classifier trained on aviation data and provides real-time predictions through a Streamlit web interface.
 
---
+---
 
 ## Features
 
@@ -18,7 +18,7 @@ The Aviation Safety Risk Prediction System is a machine learning web application
 * Displays prediction along with confidence score.
 * Data visualization using confusion matrix and decision tree.
 
---
+---
 
 ## Technologies Used
 
@@ -31,7 +31,7 @@ The Aviation Safety Risk Prediction System is a machine learning web application
 * Seaborn
 * Joblib
 
---
+---
 
 ## Dataset
 
@@ -50,7 +50,7 @@ A safety risk label is created based on:
 * Flight cancellation
 * Weather delays greater than 15 minutes
 
---
+---
 
 ## How It Works
 
@@ -64,7 +64,7 @@ A safety risk label is created based on:
 2. Click **Predict**.
 3. The model predicts whether the flight is **Low Risk** or **High Risk** and displays the confidence score.
 
---
+---
 
 ## Future Improvements
 
@@ -76,7 +76,7 @@ A safety risk label is created based on:
 * Cloud deployment on AWS.
 * Explainable AI (SHAP/LIME) for prediction insights.
 
---
+---
 
 ## Author
 
